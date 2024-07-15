@@ -1,0 +1,2 @@
+README
+This project demonstrates a simple CRUD application using Spring MVC and Spring JDBC with JSP for views and MySQL for the database. The controller (EmpController) handles HTTP requests, the DAO (EmpDao) interacts with the database, and the JSP files provide the user interface. The configuration files (spring-servlet.xml and web.xml) set up the Spring MVC framework, while the pom.xml file manages the project dependencies using Maven.
